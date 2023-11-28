@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328080613054",
+    "project_id": "orbitclient-65ba9",
+    "storage_bucket": "orbitclient-65ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328080613054:android:ca993f7e04b84478b0c8ef",
+        "android_client_info": {
+          "package_name": "com.orbitclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328080613054-bnmq0rgc5nptq2veh8bg1im0sk07ivbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsb26GT0OV8mGZVE0sjKtmY9uIaGZ2Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328080613054-bnmq0rgc5nptq2veh8bg1im0sk07ivbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
